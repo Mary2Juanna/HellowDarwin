@@ -35,7 +35,7 @@ Optionally, it is possible to override few variables present in `pd_config` by e
 
 By default, `PUREDARWIN_RELEASE` is set to "" (full release).
 
-The flow below results in a bootstrap release able to deploy a full release:
+
 
 ```
 PUREDARWIN_RELEASE="" ./pd_fetch
